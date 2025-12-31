@@ -1,3 +1,11 @@
+
+\\Student: Raoua Zemmouri  
+\\Speciality: Security
+\\group:01 
+
+
+
+
 #include <stdio.h>
 
 #define MAX 10
@@ -137,3 +145,4 @@ int main() {
     displayAutomaton();
     return 0;
 }
+
